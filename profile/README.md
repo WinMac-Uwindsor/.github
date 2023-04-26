@@ -1,0 +1,5 @@
+# WINMAC
+
+This project proposes the development of an application-based platform to manage, book events and workshops for MAC students. The current system lacks personalization and data visualization, resulting in a lack of useful data for universities to assess the effectiveness of activities and events in preparing students for the job market. The suggested approach involves employing decision tree models to visualise data of past students for administrators, who will then make recommendations to students for events that will help them find better jobs and increase overall productivity. The solution will also include a smart attendance system for tracking students’ attendance and updating events as per current job trends. The proposed platform's unique feature is its personalized approach that caters to students' needs and interests, resulting in higher efficiency and better preparation for the job market.
+
+![image](https://user-images.githubusercontent.com/77005472/234643824-776b1026-8f08-4e01-be8e-b920cdfd971e.png)
